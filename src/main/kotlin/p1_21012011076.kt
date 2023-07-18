@@ -11,7 +11,7 @@ fun main(){
     println("Boolean Value: $e")
     var f:Double= 96.36
     println("Double Value: $f")
-    var g:Long= 123
+    var g:Long= 21012011076
     println("Long Value: $g")
     var h:Short= -2
     println("Short Value: $h")
