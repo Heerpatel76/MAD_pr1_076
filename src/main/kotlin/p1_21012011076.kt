@@ -15,7 +15,6 @@ fun main(){
     println("Long Value: $g")
     var h:Short= -2
     println("Short Value: $h")
-    var i:Byte= 23
+    var i:Byte= 76
     println("Byte Value: $i")
-
 }
